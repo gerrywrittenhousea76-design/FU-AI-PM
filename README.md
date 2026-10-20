@@ -6,6 +6,8 @@
 
 **1 个 Skill · 3 种工作 · 1 份项目记录。** 日常只需要告诉 AI 产品经理：有什么材料、现在要完成什么。
 
+**版权：© 2026 Jeff，保留所有权利。** 仓库公开用于展示与查阅，未授予开源或商业使用许可。以下使用说明面向项目作者及另行获得授权的使用者，详见 [版权与授权声明](LICENSE)。
+
 ## 这条链路怎么用
 
 | 你现在的情况 | Bot 做什么 | 你拿到什么 |
@@ -114,3 +116,5 @@ grok/
 修改方法时以 `skills/fu-ai-pm/SKILL.md` 为准，再同步 Grok 附件；不要独立维护两套规则。仓库里的说明和来源记录不会作为额外 Skill 加载。
 
 本版由产品经理工作流方法包筛选、重写并整合而来，原包全文不随仓库分发。具体取舍见 [来源与整合说明](SOURCES.md)。
+
+公开仓库仍适用 GitHub 平台关于查看及站内 fork 的规则；保留版权不等于技术上阻止他人复制。参见 [GitHub 的仓库许可说明](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)。
